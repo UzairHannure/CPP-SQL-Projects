@@ -2,7 +2,7 @@
 This repository consists of all the C++ and SQL projects I completed in my final year of highschool
 it includes the following:
 
-C++ REVISION TOUR
+C++ Basics
 
 CLASSES AND OBJECTS
 
